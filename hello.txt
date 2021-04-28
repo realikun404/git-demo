@@ -8,3 +8,4 @@ hello git.It's start.
 hello git.It's start.
 hello git.It's start.
 hello git.It's start.
+这是我在github上直接改的等会我要pull.
